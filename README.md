@@ -49,6 +49,6 @@ What the tool does:
 
 6.Database Schema is 
 
-index  | keyword | rank |  title | link
+keyword | rank |  title | link
 
 7. Only 100 query/requests can be done in a single day using the google api because for more we have to pay google. Hence I've reduced the keywords in the excel file to 10-20 so that the limits are not exceeded
